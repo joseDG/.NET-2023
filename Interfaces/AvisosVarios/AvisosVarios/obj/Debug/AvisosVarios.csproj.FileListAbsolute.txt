@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Interfaces\AvisosVarios\AvisosVarios\bin\Debug\AvisosVarios.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Interfaces\AvisosVarios\AvisosVarios\bin\Debug\AvisosVarios.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Interfaces\AvisosVarios\AvisosVarios\bin\Debug\AvisosVarios.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Interfaces\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Interfaces\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Interfaces\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Interfaces\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.pdb
