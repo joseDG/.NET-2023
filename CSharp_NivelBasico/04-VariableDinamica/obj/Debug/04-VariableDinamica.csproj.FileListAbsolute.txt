@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableDinamica\bin\Debug\04-VariableDinamica.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableDinamica\bin\Debug\04-VariableDinamica.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableDinamica\bin\Debug\04-VariableDinamica.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableDinamica\obj\Debug\04-VariableDinamica.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableDinamica\obj\Debug\04-VariableDinamica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableDinamica\obj\Debug\04-VariableDinamica.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableDinamica\obj\Debug\04-VariableDinamica.pdb
