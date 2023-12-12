@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\02-TiosDatos\02-TiosDatos\bin\Debug\02-TiosDatos.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\02-TiosDatos\02-TiosDatos\bin\Debug\02-TiosDatos.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\02-TiosDatos\02-TiosDatos\bin\Debug\02-TiosDatos.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\02-TiosDatos\02-TiosDatos\obj\Debug\02-TiosDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\02-TiosDatos\02-TiosDatos\obj\Debug\02-TiosDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\02-TiosDatos\02-TiosDatos\obj\Debug\02-TiosDatos.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\02-TiosDatos\02-TiosDatos\obj\Debug\02-TiosDatos.pdb
