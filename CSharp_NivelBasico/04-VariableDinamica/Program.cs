@@ -10,6 +10,7 @@ namespace _04_VariableDinamica
     {
         static void Main(string[] args)
         {
+            //dynamic se ajusta a cualquier tipo de dato.
             dynamic Contenido;
             Contenido = "Bienvenido a mi Sistema";
 

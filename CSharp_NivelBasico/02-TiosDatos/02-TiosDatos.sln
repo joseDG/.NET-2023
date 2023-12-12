@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-EntradaDatos", "..\03-En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-VariableDinamica", "..\04-VariableDinamica\04-VariableDinamica.csproj", "{59B3346A-A8AA-46E3-9E69-CB70ABA38FE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-VariableConstante", "..\04-VariableConstante\05-VariableConstante.csproj", "{F17C23FC-20D9-4E72-A436-5B02C40913A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{59B3346A-A8AA-46E3-9E69-CB70ABA38FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59B3346A-A8AA-46E3-9E69-CB70ABA38FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59B3346A-A8AA-46E3-9E69-CB70ABA38FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17C23FC-20D9-4E72-A436-5B02C40913A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17C23FC-20D9-4E72-A436-5B02C40913A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17C23FC-20D9-4E72-A436-5B02C40913A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17C23FC-20D9-4E72-A436-5B02C40913A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

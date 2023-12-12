@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableConstante\bin\Debug\04-VariableConstante.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableConstante\bin\Debug\04-VariableConstante.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableConstante\bin\Debug\04-VariableConstante.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableConstante\obj\Debug\05-VariableConstante.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableConstante\obj\Debug\05-VariableConstante.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableConstante\obj\Debug\04-VariableConstante.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\04-VariableConstante\obj\Debug\04-VariableConstante.pdb
