@@ -7,6 +7,8 @@ namespace _01_HolaMundo
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine(11/2);
+            Console.WriteLine(11 % 2);
             Console.ReadKey();
         }
     }
