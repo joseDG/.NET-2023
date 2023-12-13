@@ -10,11 +10,18 @@ namespace _16_MetodoEjemplo1
     {
         static void Main(string[] args)
         {
+            IngresoDatos();
+            Console.ReadKey();
         }
 
+        // Método ejemplo 1
         static void IngresoDatos()
         {
+            string Nombre;
+            Console.Write("Ingresa tu nombre: ");
+            Nombre = Console.ReadLine();
 
+            Console.WriteLine("Tu nombre es: " + Nombre);
         }
     }
 }

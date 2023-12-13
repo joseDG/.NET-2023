@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\16-MetodoEjemplo1\bin\Debug\16-MetodoEjemplo1.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\16-MetodoEjemplo1\bin\Debug\16-MetodoEjemplo1.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\16-MetodoEjemplo1\bin\Debug\16-MetodoEjemplo1.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\16-MetodoEjemplo1\obj\Debug\16-MetodoEjemplo1.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\16-MetodoEjemplo1\obj\Debug\16-MetodoEjemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\16-MetodoEjemplo1\obj\Debug\16-MetodoEjemplo1.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\16-MetodoEjemplo1\obj\Debug\16-MetodoEjemplo1.pdb
