@@ -25,7 +25,10 @@ namespace _09_CondicionesIF
             {
                 Console.WriteLine(Nombre + " El sueldo que tu tienes es el minimo vital en Peru");
             }
-            else
+            else if(Sueldo <= 1024)
+            {
+                Console.WriteLine(Nombre + "El sueldo que tu tienes es igual a monero");
+            }
             {
                 Console.WriteLine(Nombre + "El sueldo que tu tienes es superior al minimo vital ");
             }
