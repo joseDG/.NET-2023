@@ -7,7 +7,7 @@
     <ProjectGuid>{CFA24D35-D34A-47E8-B7DC-2D5A9B97AFF9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_17_MetodosEjemplo2</RootNamespace>
-    <AssemblyName>_17_MetodosEjemplo2</AssemblyName>
+    <AssemblyName>17-MetodosEjemplo2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
