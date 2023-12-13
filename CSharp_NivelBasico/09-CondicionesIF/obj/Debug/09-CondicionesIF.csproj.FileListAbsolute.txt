@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\09-CondicionesIF\bin\Debug\09-CondicionesIF.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\09-CondicionesIF\bin\Debug\09-CondicionesIF.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\09-CondicionesIF\bin\Debug\09-CondicionesIF.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\09-CondicionesIF\obj\Debug\09-CondicionesIF.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\09-CondicionesIF\obj\Debug\09-CondicionesIF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\09-CondicionesIF\obj\Debug\09-CondicionesIF.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\09-CondicionesIF\obj\Debug\09-CondicionesIF.pdb
