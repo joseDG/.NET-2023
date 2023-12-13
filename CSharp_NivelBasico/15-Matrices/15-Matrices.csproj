@@ -7,7 +7,7 @@
     <ProjectGuid>{6857B200-6DD2-4C52-A290-7E4A3BD87CEC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_15_Matrices</RootNamespace>
-    <AssemblyName>_15_Matrices</AssemblyName>
+    <AssemblyName>15-Matrices</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
