@@ -7,7 +7,7 @@
     <ProjectGuid>{4E466EFF-4500-43C3-B517-7FC40FA05D32}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_20_CasoPractico</RootNamespace>
-    <AssemblyName>_20_CasoPractico</AssemblyName>
+    <AssemblyName>20-CasoPractico</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

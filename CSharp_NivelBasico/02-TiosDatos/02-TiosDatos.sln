@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-MetodosEjemplo3", "..\18
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Excepciones", "..\19-Excepciones\19-Excepciones.csproj", "{4F189E7C-04AB-4E0E-8DE4-5F3C4E5EC1F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-CasoPractico", "..\20-CasoPractico\20-CasoPractico.csproj", "{4E466EFF-4500-43C3-B517-7FC40FA05D32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{4F189E7C-04AB-4E0E-8DE4-5F3C4E5EC1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F189E7C-04AB-4E0E-8DE4-5F3C4E5EC1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F189E7C-04AB-4E0E-8DE4-5F3C4E5EC1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E466EFF-4500-43C3-B517-7FC40FA05D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E466EFF-4500-43C3-B517-7FC40FA05D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E466EFF-4500-43C3-B517-7FC40FA05D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E466EFF-4500-43C3-B517-7FC40FA05D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
