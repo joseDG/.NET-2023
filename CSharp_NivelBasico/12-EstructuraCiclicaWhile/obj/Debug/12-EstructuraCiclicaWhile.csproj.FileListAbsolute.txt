@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\12-EstructuraCiclicaWhile\bin\Debug\12-EstructuraCiclicaWhile.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\12-EstructuraCiclicaWhile\bin\Debug\12-EstructuraCiclicaWhile.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\12-EstructuraCiclicaWhile\bin\Debug\12-EstructuraCiclicaWhile.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\12-EstructuraCiclicaWhile\obj\Debug\12-EstructuraCiclicaWhile.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\12-EstructuraCiclicaWhile\obj\Debug\12-EstructuraCiclicaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\12-EstructuraCiclicaWhile\obj\Debug\12-EstructuraCiclicaWhile.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\12-EstructuraCiclicaWhile\obj\Debug\12-EstructuraCiclicaWhile.pdb
