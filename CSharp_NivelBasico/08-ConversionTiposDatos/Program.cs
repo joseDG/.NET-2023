@@ -10,6 +10,7 @@ namespace _08_ConversionTiposDatos
     {
         static void Main(string[] args)
         {
+            int numero = 0;
         }
     }
 }
