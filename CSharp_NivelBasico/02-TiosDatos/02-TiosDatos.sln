@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-EstructuraCiclicaDoWhile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-EstructuraCiclicaWhile", "..\12-EstructuraCiclicaWhile\12-EstructuraCiclicaWhile.csproj", "{A26C9EA9-E206-4808-8718-9F06EE4A5334}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-InstruccionFor", "..\13-InstruccionFor\13-InstruccionFor.csproj", "{8437C367-8A53-4CCC-98C4-D92558E00AEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A26C9EA9-E206-4808-8718-9F06EE4A5334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A26C9EA9-E206-4808-8718-9F06EE4A5334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A26C9EA9-E206-4808-8718-9F06EE4A5334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8437C367-8A53-4CCC-98C4-D92558E00AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8437C367-8A53-4CCC-98C4-D92558E00AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8437C367-8A53-4CCC-98C4-D92558E00AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8437C367-8A53-4CCC-98C4-D92558E00AEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
