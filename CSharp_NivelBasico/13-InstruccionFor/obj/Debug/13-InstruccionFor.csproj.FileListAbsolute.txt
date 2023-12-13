@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\13-InstruccionFor\bin\Debug\13-InstruccionFor.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\13-InstruccionFor\bin\Debug\13-InstruccionFor.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\13-InstruccionFor\bin\Debug\13-InstruccionFor.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\13-InstruccionFor\obj\Debug\13-InstruccionFor.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\13-InstruccionFor\obj\Debug\13-InstruccionFor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\13-InstruccionFor\obj\Debug\13-InstruccionFor.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\13-InstruccionFor\obj\Debug\13-InstruccionFor.pdb
