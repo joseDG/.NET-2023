@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-EstructuraCiclicaWhile",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-InstruccionFor", "..\13-InstruccionFor\13-InstruccionFor.csproj", "{8437C367-8A53-4CCC-98C4-D92558E00AEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Vectores", "..\14-Vectores\14-Vectores.csproj", "{437F27EC-D9FB-4FDF-9B6A-3968F7F6B25F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8437C367-8A53-4CCC-98C4-D92558E00AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8437C367-8A53-4CCC-98C4-D92558E00AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8437C367-8A53-4CCC-98C4-D92558E00AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437F27EC-D9FB-4FDF-9B6A-3968F7F6B25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437F27EC-D9FB-4FDF-9B6A-3968F7F6B25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437F27EC-D9FB-4FDF-9B6A-3968F7F6B25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437F27EC-D9FB-4FDF-9B6A-3968F7F6B25F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
