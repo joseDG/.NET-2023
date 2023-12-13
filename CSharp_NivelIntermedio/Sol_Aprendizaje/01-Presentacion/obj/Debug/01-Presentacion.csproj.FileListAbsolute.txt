@@ -1,0 +1,9 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\bin\Debug\01-Presentacion.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\bin\Debug\01-Presentacion.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\bin\Debug\01-Presentacion.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\obj\Debug\01-Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\obj\Debug\_01_Presentacion.Properties.Resources.resources
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\obj\Debug\01-Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\obj\Debug\01-Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\obj\Debug\01-Presentacion.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelIntermedio\Sol_Aprendizaje\01-Presentacion\obj\Debug\01-Presentacion.pdb
