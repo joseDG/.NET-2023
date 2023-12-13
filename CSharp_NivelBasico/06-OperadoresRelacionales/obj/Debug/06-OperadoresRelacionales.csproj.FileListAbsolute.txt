@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\06-OperadoresRelacionales\bin\Debug\06-OperadoresRelacionales.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\06-OperadoresRelacionales\bin\Debug\06-OperadoresRelacionales.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\06-OperadoresRelacionales\bin\Debug\06-OperadoresRelacionales.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\06-OperadoresRelacionales\obj\Debug\06-OperadoresRelacionales.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\06-OperadoresRelacionales\obj\Debug\06-OperadoresRelacionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\06-OperadoresRelacionales\obj\Debug\06-OperadoresRelacionales.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CSharp_NivelBasico\06-OperadoresRelacionales\obj\Debug\06-OperadoresRelacionales.pdb
