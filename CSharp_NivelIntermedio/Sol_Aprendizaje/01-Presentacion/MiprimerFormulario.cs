@@ -37,24 +37,34 @@ namespace _01_Presentacion
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btn_nuevo_Click(object sender, EventArgs e)
         {   
             //limpiar cajas de texto
             text_Codigo.Text = "";
             textDescripcion.Text = "";
 
-            //activar cajas de texto
-            text_Codigo.Enabled = true;
-            textDescripcion.Enabled = true;
+            grb_mantenimiento.Enabled = true;
+
+            //botones principales
+            gbr_botones_principales.Enabled = true;
 
             //inicia el cursor al inicio
-            //text_Codigo.Select();
             text_Codigo.Focus();
+
+            
         }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            text_Codigo.Text = "";
+            textDescripcion.Text = "";
+
+            grb_mantenimiento.Enabled = false;
+
+            //botones principales
+            gbr_botones_principales.Enabled = true;
+        }
+
+        
     }
 }
