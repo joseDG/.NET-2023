@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Presentacion", "01-Presentacion\01-Presentacion.csproj", "{A2C31849-2241-4B56-94AF-5E662C177F58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-CheckRadioButton", "02-CheckRadioButton\02-CheckRadioButton.csproj", "{E9D5E6FF-5F63-443F-A884-3B8238D6BB6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A2C31849-2241-4B56-94AF-5E662C177F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2C31849-2241-4B56-94AF-5E662C177F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2C31849-2241-4B56-94AF-5E662C177F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D5E6FF-5F63-443F-A884-3B8238D6BB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D5E6FF-5F63-443F-A884-3B8238D6BB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D5E6FF-5F63-443F-A884-3B8238D6BB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D5E6FF-5F63-443F-A884-3B8238D6BB6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
