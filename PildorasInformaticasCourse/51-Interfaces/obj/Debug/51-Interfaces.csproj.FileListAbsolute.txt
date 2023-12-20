@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\PildorasInformaticasCourse\51-Interfaces\bin\Debug\51-Interfaces.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\PildorasInformaticasCourse\51-Interfaces\bin\Debug\51-Interfaces.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\PildorasInformaticasCourse\51-Interfaces\bin\Debug\51-Interfaces.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\PildorasInformaticasCourse\51-Interfaces\obj\Debug\51-Interfaces.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\PildorasInformaticasCourse\51-Interfaces\obj\Debug\51-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\PildorasInformaticasCourse\51-Interfaces\obj\Debug\51-Interfaces.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\PildorasInformaticasCourse\51-Interfaces\obj\Debug\51-Interfaces.pdb
