@@ -17,5 +17,9 @@ namespace _01_PedirDatos
             Console.WriteLine("5. Darles forma y colocar en charola");
             Console.WriteLine("6. Hornear durante 10 minutos");
         }
+
+        //Diferencia entre
+        //WriteLine -> Salto de Linea
+        //Write -> Sin salto de linea
     }
 }
