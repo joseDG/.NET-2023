@@ -7,7 +7,7 @@
     <ProjectGuid>{AD6E565F-EAFF-4F13-B646-D8B54C5CEA8E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_03_App</RootNamespace>
-    <AssemblyName>_03_App</AssemblyName>
+    <AssemblyName>03-App</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
