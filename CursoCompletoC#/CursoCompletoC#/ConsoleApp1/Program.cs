@@ -12,6 +12,14 @@ namespace ConsoleApp1
         {
             //Tipos de datos
 
+            //decalaracion de varibales en una linea
+            int numeroLibros=100, librosNinos=100, librosMatematicas= 200;
+            double promedioFinal = 9.8;
+            char salon = 'A';
+            string saludo = "Hola";
+            bool x = true;
+            decimal promedioExamenes = 8.5M;
+            float promedioGeneral = 8.5F;
         }
     }
 }
