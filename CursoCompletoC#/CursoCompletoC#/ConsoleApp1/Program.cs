@@ -12,7 +12,10 @@ namespace ConsoleApp1
         {
             //Tipos de datos
 
-            //decalaracion de varibales en una linea
+            /*decalaracion de varibales en una linea
+             * comentirio multiples lineas
+             * se puede agregar aki
+             */
             int numeroLibros=100, librosNinos=100, librosMatematicas= 200;
             double promedioFinal = 9.8;
             char salon = 'A';
