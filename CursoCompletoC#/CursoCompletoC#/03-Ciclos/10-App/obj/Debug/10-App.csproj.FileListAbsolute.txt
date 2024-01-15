@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\03-Ciclos\10-App\bin\Debug\10-App.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\03-Ciclos\10-App\bin\Debug\10-App.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\03-Ciclos\10-App\bin\Debug\10-App.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\03-Ciclos\10-App\obj\Debug\10-App.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\03-Ciclos\10-App\obj\Debug\10-App.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\03-Ciclos\10-App\obj\Debug\10-App.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\03-Ciclos\10-App\obj\Debug\10-App.pdb
