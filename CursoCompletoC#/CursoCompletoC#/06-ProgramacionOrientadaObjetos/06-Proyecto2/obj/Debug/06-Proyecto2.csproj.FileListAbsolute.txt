@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\06-ProgramacionOrientadaObjetos\06-Proyecto2\bin\Debug\06-Proyecto2.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\06-ProgramacionOrientadaObjetos\06-Proyecto2\bin\Debug\06-Proyecto2.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\06-ProgramacionOrientadaObjetos\06-Proyecto2\bin\Debug\06-Proyecto2.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\06-ProgramacionOrientadaObjetos\06-Proyecto2\obj\Debug\06-Proyecto2.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\06-ProgramacionOrientadaObjetos\06-Proyecto2\obj\Debug\06-Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\06-ProgramacionOrientadaObjetos\06-Proyecto2\obj\Debug\06-Proyecto2.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\CursoCompletoC#\CursoCompletoC#\06-ProgramacionOrientadaObjetos\06-Proyecto2\obj\Debug\06-Proyecto2.pdb
