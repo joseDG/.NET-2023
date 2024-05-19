@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Generic\bin\Debug\Generic.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Generic\bin\Debug\Generic.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Generic\bin\Debug\Generic.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Generic\obj\Debug\Generic.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Generic\obj\Debug\Generic.pdb

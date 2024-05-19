@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SwitchCase\obj\Debug\SwitchCase.pdb

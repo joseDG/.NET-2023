@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Sobrecarga\bin\Debug\Sobrecarga.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Sobrecarga\bin\Debug\Sobrecarga.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Sobrecarga\obj\Debug\Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Sobrecarga\obj\Debug\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Sobrecarga\obj\Debug\Sobrecarga.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Sobrecarga\obj\Debug\Sobrecarga.pdb

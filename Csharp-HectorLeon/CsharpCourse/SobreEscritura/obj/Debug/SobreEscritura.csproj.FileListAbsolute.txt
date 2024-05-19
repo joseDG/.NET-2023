@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SobreEscritura\bin\Debug\SobreEscritura.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SobreEscritura\bin\Debug\SobreEscritura.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SobreEscritura\bin\Debug\SobreEscritura.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SobreEscritura\obj\Debug\SobreEscritura.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SobreEscritura\obj\Debug\SobreEscritura.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SobreEscritura\obj\Debug\SobreEscritura.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\SobreEscritura\obj\Debug\SobreEscritura.pdb
