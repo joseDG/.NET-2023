@@ -1,0 +1,7 @@
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Abstract\bin\Debug\Abstract.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Abstract\obj\Debug\Abstract.exe
+C:\Users\Usuario iTC\Documents\GitHub\.NET-2023\Csharp-HectorLeon\CsharpCourse\Abstract\obj\Debug\Abstract.pdb
